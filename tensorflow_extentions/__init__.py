@@ -1,1 +1,2 @@
-from grouped_convolution import grouped_convolution
+# from grouped_convolution import grouped_convolution
+from tensorflow_extentions import grouped_convolution
